@@ -1,0 +1,53 @@
+.more .more__btn-list {
+  margin: 35px 0px 25px 15px;
+  display: flex;
+}
+.more .more__btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 60px;
+}
+.more__btn-list .more__btn-title {
+  margin-top: 15px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+.more .more__suggestions {
+  padding-top: 25px;
+  border-top: 1px solid #fafafa;
+}
+.more .more__title {
+  opacity: 0.9;
+  margin-bottom: 20px;
+}
+.more .more__suggestions-list {
+  display: flex;
+  margin-left: 5px;
+}
+.more .suggestion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 40px;
+}
+.suggestion .suggestion-title {
+  margin-top: 12px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+.suggestion .suggestion-icon {
+  background-color: #fae000;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.suggestion-icon i {
+  color: #fffff9;
+}
+.suggestion,
+.more__btn {
+  cursor: pointer;
+}
