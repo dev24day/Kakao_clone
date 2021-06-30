@@ -1,1 +1,1 @@
-[클론 페이지](https://parkpillon.github.io/Kakao_clone/)
+[클론 페이지](https://kynzun.github.io/Kakao_clone/)
